@@ -7,4 +7,4 @@ Using the pre-trained model to generate from text to audio and you can generate 
 ## Resource
 
 Thank you
-[https://github.com/facebookresearch/audiocraft#egg=audiocraft](https://github.com/facebookresearch/audiocraft#egg=audiocraft)https://github.com/facebookresearch/audiocraft#egg=audiocraft
+https://github.com/facebookresearch/audiocraft#egg=audiocraft
